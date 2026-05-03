@@ -1,0 +1,5 @@
+{
+  "status": "active",
+  "valid_codes": ["MONITOR2026", "OFFICIAL2026"],
+  "message": "有効な認証コードを確認しました。"
+}
