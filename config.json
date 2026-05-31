@@ -1,5 +1,13 @@
 {
   "status": "active",
-  "valid_codes": ["MONITOR2026", "2026MONITOR", "OzBHE0xIUqkw", "OFFICIAL2026"],
-  "message": "有効な認証コードを確認しました。"
+  "message": "有効な認証コードを確認しました。",
+  
+  "valid_codes_v25": {
+    "MONITOR2026": { "expires_at": "2026-05-31" },
+    "2026MONITOR": { "expires_at": "2026-05-31" },
+    "OzBHE0xIUqkw": { "expires_at": "2026-06-30" },
+    "OFFICIAL2026": { "expires_at": "2027-12-31" }
+  },
+  
+  "valid_codes": ["MONITOR2026", "2026MONITOR", "OzBHE0xIUqkw", "OFFICIAL2026"]
 }
